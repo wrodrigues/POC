@@ -1,6 +1,6 @@
 # POC
 
-Projeto para adicionar "POC" em diversas tecnologias.
+Repositório para adicionar "POC" em diversas linguagens e tecnologias.
 
 Veja as branches disponíveis.
 
